@@ -4,3 +4,6 @@
 • Gained insights into the impact of in-game factors on match outcomes through feature importance analysis.
 
 • Explored optimization techniques like L2 regularization and learning rate tuning to enhance model performance.
+
+Technologies Used:
+Python (Pandas, Scikit-learn, PyTorch), Matplotlib for visualizations, and Jupyter Notebook for iterative development.
